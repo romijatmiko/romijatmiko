@@ -6,13 +6,6 @@ romijatmiko/romijatmiko is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 
 --->
-### Follow My Social Media:
-
-[![website](./img/globe-light.svg)]([https://rom](https://romijatmiko.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://romijatmiko.github.io#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/romijatmiko#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/romijatmiko#gh-dark-mode-only)
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
